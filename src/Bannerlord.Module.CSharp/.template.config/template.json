@@ -184,7 +184,7 @@
       "type": "parameter",
       "datatype": "string",
       "description": "Version of Bannerlord that Reference Assemblies will use",
-      "defaultValue": "1.0.0",
+      "defaultValue": "1.2.12",
       "replaces": "$(ProjectGameVersion)",
       "forms": {
         "global": [
@@ -197,7 +197,7 @@
       "type": "parameter",
       "datatype": "text",
       "description": "Sets the LangVersion property in the created project file",
-      "defaultValue": "10.0",
+      "defaultValue": "12.0",
       "replaces": "$(ProjectLanguageVersion)"
     },
     "nullable": {

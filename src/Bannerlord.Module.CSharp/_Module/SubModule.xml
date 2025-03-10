@@ -58,7 +58,7 @@
     <DependedModuleMetadata id="Bannerlord.UIExtenderEx" order="LoadBeforeThis" version="v2.12.0" />
 <!--#endif -->
 <!--#if (ReferenceMCM) -->
-    <DependedModuleMetadata id="Bannerlord.MBOptionScreen" order="LoadBeforeThis" version="v5.10.2" />
+    <DependedModuleMetadata id="Bannerlord.MBOptionScreen" order="LoadBeforeThis" version="v5.10.1" />
 <!--#endif -->
 <!--#if (ReferenceReferenceAssemblies) -->
     <DependedModuleMetadata id="Native" order="LoadBeforeThis" version="$gameversion$.*" />
